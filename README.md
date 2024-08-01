@@ -1,4 +1,4 @@
-# GIt- <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
+# GIt- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
 
 
 # Git Commands Labs
