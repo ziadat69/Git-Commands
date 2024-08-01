@@ -34,7 +34,7 @@ The `GIt Commands Labs` file includes:
 
 ## Usage
 
-1. **View Commands**: Open the `git_commands_labs.md` file to view the list of Git and SSH commands.
+1. **View Commands**: Open the `GIt Commands Labs` file to view the list of Git and SSH commands.
 2. **Practice**: Follow the commands and questions to practice your skills. You can execute these commands in your local Git environment to see their effects.
 3. **Enhance Your Knowledge**: Use the commands provided to better understand Git workflows and SSH setup.
 
