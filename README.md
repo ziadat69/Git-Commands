@@ -10,11 +10,14 @@ Welcome to the Git Commands Labs repository! This project provides a comprehensi
 
 This repository contains a series of questions and answers that cover essential and advanced Git commands, as well as SSH configuration and troubleshooting. Each question is followed by the corresponding Git or SSH command formatted in a code block.
 
-## Contents  <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
+## Contents  <img align="right" alt="Coding" width="550" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
 
 - **Basic Git Commands**
 - **Advanced Git Commands**
 - **SSH and Git Commands**
+
+
+
 
 
 ## Getting Started
