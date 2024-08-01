@@ -20,9 +20,9 @@ This repository contains a series of questions and answers that cover essential 
 
 
 
-## Getting Started
+### Getting Started
 
-To get started with the labs, you can simply browse through the questions and commands provided in the `git_commands_labs.md` file. Each section is designed to help you understand and practice key Git and SSH commands.
+To get started with the labs, you can simply browse through the questions and commands provided in the `GIt Commands Labs` file. Each section is designed to help you understand and practice key Git and SSH commands.
 
 ### Git Commands Labs
 
