@@ -26,7 +26,7 @@ To get started with the labs, you can simply browse through the questions and co
 
 ### Git Commands Labs
 
-The `git_commands_labs.md` file includes:
+The `GIt Commands Labs` file includes:
 
 - **Basic Git Commands**: Commands for initializing repositories, cloning, adding, committing, and more.
 - **Advanced Git Commands**: Commands for managing branches, tags, diffs, stashes, and more.
