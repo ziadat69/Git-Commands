@@ -1,7 +1,7 @@
 
 
 
-# Git Commands Labs  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
+# Git Commands Labs  <img align="right" alt="Coding" width="300" src="https://www.nobledesktop.com/image/gitresources/git-branches-merge.png">
 
 
 Welcome to the Git Commands Labs repository! This project provides a comprehensive set of exercises and commands to help you master Git and SSH for version control and repository management.
@@ -10,7 +10,7 @@ Welcome to the Git Commands Labs repository! This project provides a comprehensi
 
 This repository contains a series of questions and answers that cover essential and advanced Git commands, as well as SSH configuration and troubleshooting. Each question is followed by the corresponding Git or SSH command formatted in a code block.
 
-## Contents
+## Contents  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
 
 - **Basic Git Commands**
 - **Advanced Git Commands**
