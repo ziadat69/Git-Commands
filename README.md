@@ -1,7 +1,8 @@
-# GIt- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
 
 
-# Git Commands Labs
+
+# Git Commands Labs  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*88tFt6xMUzwfyshK.gif">
+
 
 Welcome to the Git Commands Labs repository! This project provides a comprehensive set of exercises and commands to help you master Git and SSH for version control and repository management.
 
